@@ -1,5 +1,14 @@
 # bayeswire
 
+> **⚠️ This repository is archived.** bayeswire now lives in the
+> [bayescycle monorepo](https://github.com/StefanSko/bayescycle) at
+> [`packages/bayeswire`](https://github.com/StefanSko/bayescycle/tree/main/packages/bayeswire),
+> with the wire spec at the monorepo root, and is published to PyPI as
+> [`bayeswire`](https://pypi.org/project/bayeswire/) (lockstep-versioned
+> with the rest of the toolchain). History and tags here (≤ v0.2.0)
+> remain readable for old pins. Issues have been transferred to the
+> monorepo.
+
 **The reproducible, agent-verifiable Bayesian workflow — one spec, a reference
 engine, a fast engine that must agree with it, and a harness that refuses to
 let either you or the agent skip a step.**
